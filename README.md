@@ -1,4 +1,5 @@
           
+          OIBSIP-TASK 1
           
           
           A Basic simple calculator is built using html, css and javascript! It takes a little skill to create a calculator with basic 
